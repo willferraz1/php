@@ -5,4 +5,6 @@
 
 	echo "Olá Udemy e olá Hcode!";
 
+	echo "O que digitar quando terminar de editar um arquivo?";
+
 ?>	
