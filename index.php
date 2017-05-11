@@ -7,4 +7,6 @@
 
 	echo "O que digitar quando terminar de editar um arquivo?";
 
+	echo "Apos terminar de editar o arquivo digitar o seguinte comando git add --all";
+
 ?>	
